@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99097bac-7b18-48df-bb29-2f179de87a61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test file/.idea/test file.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/year.py" beforeDir="false" afterPath="$PROJECT_DIR$/year.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -182,7 +179,8 @@
       <workItem from="1572333507921" duration="70000" />
       <workItem from="1572333600089" duration="1085000" />
       <workItem from="1572334707582" duration="6105000" />
-      <workItem from="1572580054354" duration="1641000" />
+      <workItem from="1572580054354" duration="3232000" />
+      <workItem from="1572752567829" duration="1232000" />
     </task>
     <servers />
   </component>
@@ -194,7 +192,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
