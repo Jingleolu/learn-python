@@ -11,10 +11,11 @@ import math
 print('this is a program to judge whether your number is a prime number')
 x = int(input('please input your number:'))
 end = int(math.sqrt(x))
+is_prime = True
 for i in range(2, end+1):
-    if x % i != 0:
-        continue
-    else:
+    if x % i == 0:
         print('%d不是素数' % x)
+        is_prime = False
         break
-print('%d是素数' % x)
+if is_prime:
+    print('%d是素数' % x)
