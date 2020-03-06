@@ -13,3 +13,4 @@ if a > b:
 for divisor in range(a, 0, -1):
     if a % divisor == 0 and b % divisor == 0:
         print('%d和%d的公约数为%d' % (a, b, divisor))
+        break
